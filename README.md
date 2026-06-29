@@ -8,4 +8,4 @@ The **BrawlCrate MKWii Animation Plugin** is a plugin for [BrawlCrate](https://g
 * Automatically imports all needed Textures
 
 ## Installation
-In BrawlCrate, under Tools > Settings > Updater > Manage Subscriptions you can add this repository's link to install the plugin and get automatic updates: https://github.com/szs-modifier/brawlcrate-material-presets
+In BrawlCrate, under Tools > Settings > Updater > Manage Subscriptions you can add this repository's link to install the plugin and get automatic updates: https://github.com/szsmodifier/brawlcrate-material-presets
